@@ -1,27 +1,18 @@
-
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
-
-<img src="C:\Разработка\Project\rsschool-cv/avatarka.jpg" alt="avatarka">
-#Petukhov Artyom#
-
+<img src="C:\Разработка\Project\rsschool-cv/avatarka.jpg" alt="avatarka">  
+# Petukhov Artyom
 -------------------     ----------------------------
-- Email                              s1bak38@gmail.com
+- Email                              s1abak38@gmail.com
 - My Town                                         Perm
 - My Country                                    Russia
-- GitHub                                        [link](https://github.com/PetukhovArt)
+- GitHub                                        [Click here](https://github.com/PetukhovArt)
 -------------------     ----------------------------
-
-##About##
+## About
 -------------------     ----------------------------
 - Main goal - to improve the world around.
 - Strengths: responsibility, perseverance, striving for excellence.
 - Experience - 10 years in the construction and operation of telecommunication networks
 -------------------     ----------------------------
-
-##Skills##
+## Skills
 -------------------     ----------------------------
 Basic knowledge of:
 - HTML
@@ -29,8 +20,7 @@ Basic knowledge of:
 - Git
 - Javascript
 -------------------     ----------------------------
-
-##Codewars##
+## Codewars
 -------------------     ----------------------------
 ```
 function multiply(a, b){
@@ -39,5 +29,11 @@ function multiply(a, b){
 
 ```
 -------------------     ----------------------------
-
+##Junior Frontend Experience
+-------------------     ----------------------------
+- Projects: Geekbrains HTML&CSS Course [Click here](https://petukhovart.github.io/Geekbrains%20prj/#)
+- Language: 
+* Russian (native speaker)
+* English (A2) ( Recommendation from http://test.str.by to learn on CEFR B1)
+-------------------     ----------------------------
 
