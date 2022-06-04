@@ -2,5 +2,7 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 p {
+    width: 1000px;
     color: gray;
-  }
+    text-align: center;
+}
