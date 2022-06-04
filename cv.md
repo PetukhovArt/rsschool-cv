@@ -1,5 +1,5 @@
 <kbd>
-<image src="/images/photo.jpg" alt="Avatar">
+<image src="C:\Users\Артем\Pictures\photo.jpg" alt="Avatar">
 </kbd>
 
 Petukhov Artem
