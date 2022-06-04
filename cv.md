@@ -1,4 +1,3 @@
-<img src="C:\Разработка\Project\rsschool-cv/avatarka.jpg" alt="avatarka">  
 # Petukhov Artyom
 -------------------     ----------------------------
 - Email                              s1abak38@gmail.com
@@ -29,7 +28,7 @@ function multiply(a, b){
 
 ```
 -------------------     ----------------------------
-##Junior Frontend Experience
+## Junior Frontend Experience
 -------------------     ----------------------------
 - Projects: Geekbrains HTML&CSS Course [Click here](https://petukhovart.github.io/Geekbrains%20prj/#)
 - Language: 
