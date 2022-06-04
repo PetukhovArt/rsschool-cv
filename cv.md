@@ -15,7 +15,7 @@ About me
 * Main goal - to improve the world around!
 * Strengths: responsibility, perseverance, striving for excellence and development.
 * Experience - 10 years in the construction and operation of the telecommunication networks
-    
+
 Skills
 ------
 Basic knowledge of:
@@ -34,11 +34,11 @@ return a * b
 
 Junior Frontend Experience
 --------------------------
-* Projects: 
+* Projects:
  * Geekbrains HTML&CSS Course [Click here](https://petukhovart.github.io/Geekbrains%20prj/#)
 
 Education
---------- 
+---------
 * Place:              Perm State Technical University 20'
 * Speciality:                       Heat and ventilation
 * Courses in ER-Telecom:
@@ -47,8 +47,8 @@ Education
   * soft skills
 
 Language
--------- 
+--------
 * Russian (native speaker)
-* English: 
+* English:
   * in-depth study of English at school;
   * Level - A2 ( Recommendation from http://test.str.by to learn on CEFR B1)
