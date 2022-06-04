@@ -52,5 +52,3 @@ Language
 * English: 
   * in-depth study of English at school;
   * Level - A2 ( Recommendation from http://test.str.by to learn on CEFR B1)
-
-

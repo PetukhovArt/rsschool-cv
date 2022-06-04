@@ -1,1 +1,1 @@
-https://PetukhovArt.github.io/rsschool-cv/cv
+https://PetukhovArt.github.io/rsschool-cv/
