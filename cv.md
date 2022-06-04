@@ -3,8 +3,6 @@
 </kbd>
 
 Petukhov Artem
-===================
-
 -------------------     ----------------------------
 * Email:                          s1abak38@gmail.com
 * Town:                                         Perm
