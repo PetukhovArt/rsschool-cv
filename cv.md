@@ -1,4 +1,6 @@
-![Это опциональный alt-текст](/assets/images/markdown/markdown.png)
+<kbd>
+<image src="/images/photo.jpg" alt="Avatar">
+</kbd>
 
 Petukhov Artem
 ===================
