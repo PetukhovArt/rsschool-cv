@@ -1,5 +1,5 @@
 <kbd>
-<image src="photo.jpg" alt="Avatar">
+<image src="avatar.jpg" alt="Avatar">
 </kbd>
 
 Petukhov Artem
@@ -29,8 +29,8 @@ Basic knowledge of:
 Codewars
 --------
 ```
-function multiply(a, b){
-  a * b
+function multiply (a, b) {
+return a * b
 }
 ```
 
