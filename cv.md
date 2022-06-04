@@ -1,5 +1,5 @@
 <kbd>
-<image src="C:\Users\Артем\Pictures\photo.jpg" alt="Avatar">
+<image src="photo.jpg" alt="Avatar">
 </kbd>
 
 Petukhov Artem
@@ -53,6 +53,6 @@ Language
 * Russian (native speaker)
 * English: 
   * in-depth study of English at school;
-  * (A2) ( Recommendation from http://test.str.by to learn on CEFR B1)
+  * Level - A2 ( Recommendation from http://test.str.by to learn on CEFR B1)
 
 
