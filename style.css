@@ -1,8 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
 body {
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
-p {
-    width: 1000px;
-    color: gray;
-    text-align: center;
+.container {
+    max-width:1440px;
+    margin: 0 auto;
 }
+
+
