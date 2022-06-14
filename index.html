@@ -16,9 +16,7 @@
 </head>
 <body>
 <header class="header">
-        <div class="container">
-            <img src="/assets/img/avatar.jpg" alt="my photo">
-            <h2 class="header-title">Junior Frontend Developer</h2>
+        <div class="container header-container">
             <nav class="nav">
                 <ul class="nav-list">
                     <li class="nav-item"><a href="#Contacts" class="nav-link">Contacts</a> </li>
@@ -33,52 +31,61 @@
             </nav>
         </div>
 </header>
-<main class="main-container">
+<main class="container main-container">
+<section class="section section-profile" id="profile">
+        <img src="/assets/img/avatar.jpg" alt="my photo" class="section-profile-logo">
+        <div class="section-profile-title">
+            <h1 class="section-title main-title">Petukhov Artyom</h1>
+            <h3 class="section-subtitle">JUNIOR FRONT-END DEVELOPER</h3>
+        </div>
+</section>
+
 <section class="section" id="Contacts">
 <h1 class="section-title">Contacts</h1>
-<ul>
-    <li>Country - Russia</li>
-    <li>Town - Perm</li>
-    <li>Email: PtukhovAN@gmail.com</li>
+<ul class="section-list">
+    <li class="section-item">Country - Russia</li>
+    <li class="section-item">Town - Perm</li>
+    <li class="section-item">Email: PtukhovAN@gmail.com</li>
   </ul>
 </section>
 
 <section class="section" id="About Me">
 <h2 class="section-title">About Me</h2>
-  <ul>
-    <li>Main goal - to improve the world around!</li>
-    <li>Strengths: responsibility, perseverance, striving for excellence and development</li>
-    <li>Experience - 10 years in the construction and operation of the telecommunication networks</li>
-  </ul>
+  <p>
+    Main goal - to improve the world around!<br>
+    Strengths: responsibility, perseverance, striving for excellence and development.<br>
+    Experience - 10 years in the construction and operation of the telecommunication networks.<br>
+  </p>
 </section>
 
 <section class="section" id="Skills">
   <h2 class="section-title">Basic Skills</h2>
-    <ul>
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>Git</li>
-     <li>Javascript</li>
+    <ul class="section-list">
+     <li class="section-item">HTML</li>
+     <li class="section-item">CSS</li>
+     <li class="section-item">Git</li>
+     <li class="section-item">Javascript</li>
    </ul>
 </section>
 
 <section class="section" id="Experience">
     <h2 class="section-title">Experience</h2>
-    <ul>
-        <li class="nav-item"><a href="https://petukhovart.github.io/Geekbrains%20prj" class="exp-link">Geekbrains HTML&CSS project</a></li>
-        <li class="nav-item"><a href="https://petukhovart.github.io/Geekbrains%20prj" class="exp-link">RSSchool HTML&CSS CV</a></li>
-    </ul>
+    <ul class="section-list">
+        <li class="section-item"><a href="https://petukhovart.github.io/Geekbrains%20prj" class="exp-link">Geekbrains HTML&CSS project</a></li>
+        <li class="section-item"><a href="https://petukhovart.github.io/Geekbrains%20prj" class="exp-link">RSSchool HTML&CSS CV</a></li>
+</ul>
 </section>
 
 <section class="section" id="Education">
     <h2 class="section-title">Education</h2>
-    <ul>
-        <li>Place:  Perm State Technical University 20'</li>
-        <li>Speciality:  Heat and ventilation</li>
+    <ul class="section-list">
+        <li class="section-item">Place:  Perm State Technical University 20'</li>
+        <li class="section-item">Speciality:  Heat and ventilation</li>
         </li>
     </ul>
 
 </section>
+
 <section class="section" id="Work Examples">
     <h2 class="section-title">Codewars</h2>
     <p class="code">
@@ -92,37 +99,29 @@
 
 <section class="section" id="Languages">
     <h2 class="section-title">Languages</h2>
-    <ul>
-        <li>Russian (native speaker)</li>
-        <li >English:
-            <ul>
-                <li>In-depth study of English at school</li>
-                <li>Level - A2 ( Recommendation from http://test.str.by to learn on CEFR B1)</li>
-            </ul>
-        </li>
+    <ul class="section-list">
+        <li class="section-item">Russian (native speaker)</li>
+        <li class="section-item">In-depth study of English at school</li>
+        <li class="section-item">English Level - A2</li>
     </ul>
 </section>
 
 <section class="section" id="Courses">
     <h2 class="section-title">Courses</h2>
-    <ul>
-        <li class="nav-item"><a href="https://gb.ru/tests/270" class="exp-link">Geekbrains HTML&CSS project</a></li>
-        <li class="nav-item"><a href="https://rs.school/js-stage0/" class="exp-link">RSSchool Frontend project</a></li>
-        <li >Courses at ER-Telecom:
-            <ul>
-                <li>OSI model (layers)</li>
-                <li>Project management</li>
-                <li>Soft skills</li>
-            </ul>
-        </li>
+    <ul class="section-list">
+        <li class="section-item"><a href="https://gb.ru/tests/270" class="exp-link">Geekbrains HTML&CSS project</a></li>
+        <li class="section-item"><a href="https://rs.school/js-stage0/" class="exp-link">RSSchool Frontend project</a></li>
     </ul>
 </section>
 
 </main>
 
 <footer class="footer">
-    <div class="container">
-        <p>footer</p>
+    <div class="container footer-container">
+        <div>© 2022
+            <a href="https://github.com/PetukhovArt" class="github nav-link">PetukhovArt</a>
+        </div>
+        <a href="https://rs.school/js/" class="rss"></a>
     </div>
  </footer>
 
