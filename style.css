@@ -177,7 +177,7 @@ p {
 .rss {
   width: 121px;
   height: 45px;
-  background-image: url(/assets/svg/favicon.svg);
+  background-image: url(../rsschool-cv/assets/svg/favicon.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
