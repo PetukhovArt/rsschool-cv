@@ -14,10 +14,6 @@ body {
   background-color: rgb(219, 229, 233);
   font-family: 'Montserrat', sans-serif;
 }
-.cv {
-  display: flex;
-  border: 2px solid red;/*border for time*/
-}
 
 .container {
   border: 1px solid black; /*border for time*/
